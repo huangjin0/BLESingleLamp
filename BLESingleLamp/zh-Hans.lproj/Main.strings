@@ -1,0 +1,21 @@
+
+/* Class = "UIViewController"; title = "智能灯控"; ObjectID = "4kV-88-o1X"; */
+"4kV-88-o1X.title" = "智能灯控";
+
+/* Class = "UIViewController"; title = "音乐"; ObjectID = "BUl-h5-Jbc"; */
+"BUl-h5-Jbc.title" = "音乐";
+
+/* Class = "UITableViewController"; title = "设置"; ObjectID = "MVA-kX-PPs"; */
+"MVA-kX-PPs.title" = "设置";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "aZu-lb-4Zi"; */
+"aZu-lb-4Zi.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "yBD-3h-xPa"; */
+"yBD-3h-xPa.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "ziP-OG-fsp"; */
+"ziP-OG-fsp.title" = "Root View Controller";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "zrP-BX-aah"; */
+"zrP-BX-aah.title" = "Item";
